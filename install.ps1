@@ -20,7 +20,6 @@ else{
     choco install paint.net -y
     choco install python -y
     choco install vscode -y
-    choco install steam -y
     choco install tortoisegit -y
     choco install openvpn -y
     choco install everything -y
@@ -43,7 +42,6 @@ else{
     choco upgrade paint.net  -y
     choco upgrade python -y
     choco upgrade vscode -y
-    choco upgrade steam -y
     choco upgrade tortoisegit -y
     choco upgrade openvpn -y
     choco upgrade everything -y
