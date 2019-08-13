@@ -15,6 +15,7 @@ choco install nodejs.install -y
 choco install teamviewer -y
 choco install paint.net -y
 choco install python -y
+choco install mingw -y
 choco install vscode -y
 choco install tortoisegit -y
 choco install openvpn -y
