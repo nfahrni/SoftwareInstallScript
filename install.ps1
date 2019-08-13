@@ -15,12 +15,11 @@ choco install nodejs.install -y
 choco install teamviewer -y
 choco install paint.net -y
 choco install python -y
-choco install mingw -y
+choco install mingw -y # c/c++ compiler
 choco install vscode -y
 choco install tortoisegit -y
 choco install openvpn -y
 choco install everything -y
-choco install mpc-hc -y
+choco install mpc-hc -y # movie player
 choco install etcher -y
-choco install jdownloader -y
 choco install teamspeak -y
