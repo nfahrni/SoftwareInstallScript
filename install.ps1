@@ -23,3 +23,4 @@ choco install everything -y
 choco install mpc-hc -y # movie player
 choco install etcher -y
 choco install teamspeak -y
+choco install openjdk -y
