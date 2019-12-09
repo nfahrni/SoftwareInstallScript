@@ -1,4 +1,4 @@
-# install first
+# install first https://chocolatey.org/docs/installation
 # Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
 # execute as admin
@@ -6,12 +6,12 @@ choco install googlechrome -y
 choco install ublockorigin-chrome -y
 choco install firefox -y
 choco install ublockorigin-firefox -y
-choco install notepadplusplus.install -y
+choco install notepadplusplus -y
 choco install vlc -y
 choco install winrar -y
-choco install git.install -y
-choco install putty.install -y
-choco install nodejs.install -y
+choco install git -y
+choco install putty -y
+choco install nodejs-lts -y
 choco install teamviewer -y
 choco install paint.net -y
 choco install python -y
@@ -24,3 +24,4 @@ choco install mpc-hc -y # movie player
 choco install etcher -y
 choco install teamspeak -y
 choco install openjdk -y
+choco install telegram -y
