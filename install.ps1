@@ -25,4 +25,5 @@ choco install etcher -y
 choco install teamspeak -y
 choco install openjdk -y
 choco install telegram -y
-choco install intellijidea-ultimate
+choco install intellijidea-ultimate -y
+choco install visualstudio2019community -y
