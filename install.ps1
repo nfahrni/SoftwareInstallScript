@@ -12,7 +12,6 @@ choco install winrar -y
 choco install git -y
 choco install putty -y
 choco install nodejs-lts -y
-choco install teamviewer -y
 choco install paint.net -y
 choco install python -y
 choco install mingw -y # c/c++ compiler
