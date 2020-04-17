@@ -27,3 +27,4 @@ choco install telegram -y
 choco install intellijidea-ultimate -y
 choco install visualstudio2019community -y
 choco install android-sdk -y
+choco install sql-server-management-studio -y
