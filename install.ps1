@@ -2,8 +2,6 @@
 # Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
 # execute as admin
-choco install googlechrome -y
-choco install ublockorigin-chrome -y
 choco install firefox -y
 choco install ublockorigin-firefox -y
 choco install notepadplusplus -y
